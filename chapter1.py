@@ -1,3 +1,4 @@
+import pygame
 import PIL
 import cv2
 import moviepy.editor as mp
